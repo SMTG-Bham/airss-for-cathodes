@@ -2,7 +2,7 @@
 
 This is the repository containins the raw research data for *Accelerating Cathode Material Discovery through Ab Initio Random Structure Searching*
 
-Because the amount of data involved, this repository only includes analysis files and key structures. 
+Because of the amount of data involved, this repository only includes analysis files and key structures. 
 The rest of the data, mostly including larger files such as raw calculation outputs and the AiiDA export archive can be located at DOI:XXX.
 
 ## Folder structure
