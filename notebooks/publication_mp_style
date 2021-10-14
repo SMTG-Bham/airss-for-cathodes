@@ -1,0 +1,39 @@
+figure.figsize : 3.5, 3.5
+figure.dpi: 600
+# Seabor muted, good for data plotting and comparisons
+#xes.prop_cycle: cycler('color', ['4878CF', '6ACC65', 'D65F5F', 'B47CC7', 'C4AD66', '77BEDB'])
+
+# Matplotlib default of Tab10 probably best for data plotting
+#  Pretty illustrative colours from IOP Review:
+axes.prop_cycle: cycler('color', ['00a094', 'eb9222', '097892', 'd4489a', '7eb740', 'd33052', '993f00', '4c005c'])
+# Old: ['f0a3ff', '0075dc', '993f00', '4c005c', '426600', 'ff0010', '9dcc00', 'c20088', '003380', 'ffa405', 'ffff00', 'ff5005', '5ef1f2', '740aff', '990000', '00998f', '005c31', '2bce48', 'ffcc99', '94ffb5', '8f7c00', '6fa8bb', '808080'])
+
+font.family : sans-serif
+font.sans-serif : Helvetica, Whitney Book Extended, Catamaran, Liberation Sans, Andale Sans, Arial
+font.size : 9
+text.usetex : False
+
+axes.titlesize : 9
+axes.linewidth       : 1
+grid.linewidth       : 1
+grid.color           : black
+lines.linewidth : 1.5
+xtick.major.size     : 6
+xtick.minor.size     : 0
+xtick.major.width    : 1
+xtick.minor.width    : 1
+xtick.major.pad      : 7
+xtick.direction      : in
+xtick.top            : False
+xtick.bottom         : True
+ytick.major.size     : 6
+ytick.minor.size     : 0
+ytick.major.width    : 1
+ytick.minor.width    : 1
+ytick.major.pad      : 7
+ytick.direction      : in
+ytick.right          : False
+ytick.left           : True
+pdf.fonttype : 42
+#mathtext.fontset : stixsans
+legend.handlelength  : 1.5

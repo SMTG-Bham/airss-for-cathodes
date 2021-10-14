@@ -1,0 +1,23 @@
+label,structure,relax,energy,errors,energy_fu
+LiFeSO4F triplite-ordered-5,ae207049-f7b7-4a53-801a-0d45b4240464,6791e26d-2c77-4c88-997b-e2609f8af8c2,-192.85114333,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.2127858325
+LiFeSO4F triplite-ordered-0,b53a0bd3-eb67-44b9-a00d-81b084cf736e,81078706-b70a-4e8a-a7c8-9cec3e9b0632,-192.80153703,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.2003842575
+LiFeSO4F triplite-ordered-14,6e113f26-dfab-406a-9783-b4e7e87505b4,ed5d5947-ca48-4f7d-aa08-997304c96c78,-192.73841877,[],-48.1846046925
+LiFeSO4F triplite-ordered-16,0e606553-f80f-4bc6-ac1d-e2b4f3fc8756,39025890-adf4-46b1-b2e8-f253c1c8d348,-192.71201049,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.1780026225
+LiFeSO4F triplite-ordered-1,31bd4955-e6e9-4cc7-be50-2382f6f76aa0,095b0820-77b3-40e7-a4bd-41ffa2fc3a43,-192.69654891,[],-48.1741372275
+LiFeSO4F triplite-ordered-6,8ee7d1c3-5e21-4610-badb-78bc9177b1a2,87b74a31-16ad-448c-9ee3-716d8aef7090,-192.69328032,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.17332008
+LiFeSO4F triplite-ordered-17,360cb035-21ad-4389-9dd4-5cf411145780,afab3b32-6685-46b9-a7da-d237591dc33d,-192.66807961,[],-48.1670199025
+LiFeSO4F triplite-ordered-7,ee5c3a0d-89ec-4dd6-877d-44f5e772f328,14970b71-5d83-4043-9906-95f2234ab807,-192.66560573,[],-48.1664014325
+LiFeSO4F triplite-ordered-4,d8e42a1c-4e2f-4081-a5dd-63443f37fdec,f59d538b-6fe0-4934-a9a3-f5bea1f3c9d4,-192.66083402,[],-48.165208505
+LiFeSO4F triplite-ordered-3,28a7934f-a951-4641-90d1-0165699a2b61,9d7d5bf3-d8a6-448a-bc01-583d6e946741,-192.65063983,[],-48.1626599575
+LiFeSO4F triplite-ordered-21,0153e6ae-22f8-476b-84cd-51592f357b68,308e1467-5b8e-4454-b554-5b4caad3172c,-192.63525426,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.158813565
+LiFeSO4F triplite-ordered-8,667bf82a-0dad-44c0-96d8-aaab039e475c,dcd0723d-ab16-404e-a900-0f129b88bbc1,-192.63308921,[],-48.1582723025
+LiFeSO4F triplite-ordered-13,c8df4a2f-43cc-4139-8144-622c4f4ae5b0,14d803ad-02c1-43cd-8b61-e76489b73fa5,-192.61798964,"[{'message': 'Error with Kpoints', 'critical': False, 'shortname': 'ibzkpt', 'suggestion': 'Lower kpoints slightly or ignore'}]",-48.15449741
+LiFeSO4F triplite-ordered-18,6f469dc9-5949-48da-a256-fa60256b0846,de6340d6-9d97-4078-9dfe-d65268abbcb5,-192.61479897,[],-48.1536997425
+LiFeSO4F triplite-ordered-2,3ea23adc-8db9-42ae-9c94-a573d65820cc,81a58d4e-b0c4-4c62-9d77-1f7641c02624,-192.60715457,[],-48.1517886425
+LiFeSO4F triplite-ordered-10,0908326f-d81c-432e-884b-c4863ec38a2c,c187f593-56b4-446b-9b1f-25ab8bc88abc,-192.60102941,[],-48.1502573525
+LiFeSO4F triplite-ordered-19,79771c12-4bca-43ac-ace2-8388db49381a,b58b9c34-7124-400c-920b-5a2cf8efdfe0,-192.58252556,[],-48.14563139
+LiFeSO4F triplite-ordered-15,b5a2f0f7-dde3-48de-88e9-f464fc78e565,8dac8afc-7c9b-460e-808e-51fb4b05a3af,-192.57029845,[],-48.1425746125
+LiFeSO4F triplite-ordered-9,11fd4a2c-b660-4dbf-84b4-bf86c3d40c60,9326905b-2711-4c90-9fe1-279df6b38215,-192.49971691,[],-48.1249292275
+LiFeSO4F triplite-ordered-12,ce6c0c12-2d78-4fd7-82af-3acb0301829d,43374c56-81cd-4635-86e5-c5859791c3f3,-192.47204378,[],-48.118010945
+LiFeSO4F triplite-ordered-20,b73e46dd-d9d5-41a9-9bb8-34eda4a49681,6a049384-4ef4-46ba-a14d-a9aacbf5a5ee,-192.45962426,[],-48.114906065
+LiFeSO4F triplite-ordered-11,b1d84839-5ba8-4058-bfe6-edaae2456dcf,24e20f49-4774-4ab9-8c85-fed405adbfe0,-192.44991798,[],-48.112479495
