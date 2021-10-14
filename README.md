@@ -6,7 +6,7 @@ Because the amount of data involved, this repository will have two different ver
 
 ## Folder structure
 
-- `aiida_export` contains the archive file exported from the [AiiDA](www.aiida.net) database used for performing most of the DFT calculations (Only avalaible in the extras repository: DOI:XXX).  
+- `aiida_export` contains the archive file exported from the [AiiDA](https://www.aiida.net) framework, which is was used for performing most of the DFT calculations (Only avalaible in the extras repository: DOI:XXX).  
 - `data` contains tabulated data in csv format used for making some plots.
 - `notebooks` continas notebooks associated with data analysis used in each section of the manuscript. (Certain in house codes loaded by these notebooks are not included in this repo.)
 - `paper_asserts` contains the figures used for the manuscript as well as some structural files (VESTA).
