@@ -1,5 +1,7 @@
 # Data associated with *Accelerating Cathode Material Discovery through Ab Initio Random Structure Searching*
 
+[![DOI](https://zenodo.org/badge/417268042.svg)](https://zenodo.org/badge/latestdoi/417268042)
+
 This is the repository containins the raw research data for *Accelerating Cathode Material Discovery through Ab Initio Random Structure Searching*
 
 Because of the amount of data involved, this repository only includes analysis files and key structures. 
