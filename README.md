@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/417268042.svg)](https://zenodo.org/badge/latestdoi/417268042)
 
+
+Zenodo record including the calculation archive: [![DOI](https://zenodo.org/badge/DOI/11.5281/zenodo.5725660.svg)](https://doi.org/10.5281/zenodo.5725660)
+
+
 This is the repository containins the raw research data for *Accelerating Cathode Material Discovery through Ab Initio Random Structure Searching*
 
 Because of the amount of data involved, this repository only includes analysis files and key structures. 
