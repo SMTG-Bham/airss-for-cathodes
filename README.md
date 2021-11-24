@@ -11,7 +11,7 @@ The rest of the data, mostly including larger files such as raw calculation outp
 
 ## Folder structure
 
-- `aiida_export` contains the archive file exported from the [AiiDA](https://www.aiida.net) framework, which is was used for performing most of the DFT calculations (Available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5572347.svg)](https://doi.org/10.5281/zenodo.5572347)).
+- `aiida_export` contains the archive file exported from the [AiiDA](https://www.aiida.net) framework, which is was used for performing most of the DFT calculations (Available here: [![DOI](https://zenodo.org/badge/DOI/11.5281/zenodo.5725660.svg)](https://doi.org/10.5281/zenodo.5725660)).
 - `data` contains tabulated data in csv format used for making some plots.
 - `notebooks` continas notebooks associated with data analysis used in each section of the manuscript. (Certain in house codes loaded by these notebooks are not included in this repo.)
 - `paper_asserts` contains the figures used for the manuscript as well as some structural files (VESTA).
